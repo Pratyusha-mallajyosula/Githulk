@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<parameter name="url" value=" rediff.com"> </parameter>
+  <test thread-count="5" name="Test">
+  <!-- <groups>
+  <run>
+  <include name=" " />
+  </run>
+  </groups> -->
+  <packages>
+  <package name= "Testingmvn" /> 
+  </packages>
+   <!--  <classes>
+      <class name="Testingmvn.Testmvn">
+      <methods> <include name="third"/>
+      </methods>
+      </class>
+      <class name="Testingmvn.Testsecond"/>
+    </classes> -->
+  </test> 
+</suite> 

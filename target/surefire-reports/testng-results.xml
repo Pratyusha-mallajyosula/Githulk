@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="312" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="312" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+      <class name="Testingmvn.Testsecond">
+        <test-method status="PASS" signature="before()[pri:0, instance:Testingmvn.Testsecond@3c0f93f1]" name="before" is-config="true" duration-ms="1" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="bfclass()[pri:0, instance:Testingmvn.Testsecond@3c0f93f1]" name="bfclass" is-config="true" duration-ms="1" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfclass -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:Testingmvn.Testsecond@3c0f93f1]" name="method1" is-config="true" duration-ms="9" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="first(java.lang.String)[pri:0, instance:Testingmvn.Testsecond@3c0f93f1]" name="first" duration-ms="1" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ rediff.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="aftermethod2()[pri:0, instance:Testingmvn.Testsecond@3c0f93f1]" name="aftermethod2" is-config="true" duration-ms="1" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod2 -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:Testingmvn.Testsecond@3c0f93f1]" name="method1" is-config="true" duration-ms="1" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="second(java.lang.String, java.lang.String)[pri:0, instance:Testingmvn.Testsecond@3c0f93f1]" name="second" duration-ms="2" started-at="2020-06-29T18:28:15 IST" data-provider="data" finished-at="2020-06-29T18:28:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firstusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pswd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- second -->
+        <test-method status="PASS" signature="aftermethod2()[pri:0, instance:Testingmvn.Testsecond@3c0f93f1]" name="aftermethod2" is-config="true" duration-ms="1" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod2 -->
+        <test-method status="PASS" signature="second(java.lang.String, java.lang.String)[pri:0, instance:Testingmvn.Testsecond@3c0f93f1]" name="second" duration-ms="8" started-at="2020-06-29T18:28:15 IST" data-provider="data" finished-at="2020-06-29T18:28:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[secondusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pswd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- second -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:Testingmvn.Testsecond@3c0f93f1]" name="method1" is-config="true" duration-ms="0" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="aftermethod2()[pri:0, instance:Testingmvn.Testsecond@3c0f93f1]" name="aftermethod2" is-config="true" duration-ms="1" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod2 -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:Testingmvn.Testsecond@3c0f93f1]" name="method1" is-config="true" duration-ms="1" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="second(java.lang.String, java.lang.String)[pri:0, instance:Testingmvn.Testsecond@3c0f93f1]" name="second" duration-ms="1" started-at="2020-06-29T18:28:15 IST" data-provider="data" finished-at="2020-06-29T18:28:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[thirdusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pswd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- second -->
+        <test-method status="PASS" signature="aftermethod2()[pri:0, instance:Testingmvn.Testsecond@3c0f93f1]" name="aftermethod2" is-config="true" duration-ms="7" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod2 -->
+        <test-method status="PASS" signature="afclass()[pri:0, instance:Testingmvn.Testsecond@3c0f93f1]" name="afclass" is-config="true" duration-ms="2" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afclass -->
+        <test-method status="PASS" signature="after()[pri:0, instance:Testingmvn.Testsecond@3c0f93f1]" name="after" is-config="true" duration-ms="4" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- Testingmvn.Testsecond -->
+      <class name="Testingmvn.Testmvn">
+        <test-method status="PASS" signature="before()[pri:0, instance:Testingmvn.Testmvn@2038ae61]" name="before" is-config="true" duration-ms="26" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="bfclass()[pri:0, instance:Testingmvn.Testmvn@2038ae61]" name="bfclass" is-config="true" duration-ms="1" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfclass -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:Testingmvn.Testmvn@2038ae61]" name="method1" is-config="true" duration-ms="1" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="first()[pri:0, instance:Testingmvn.Testmvn@2038ae61]" name="first" duration-ms="9" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="aftermethod2()[pri:0, instance:Testingmvn.Testmvn@2038ae61]" name="aftermethod2" is-config="true" duration-ms="3" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod2 -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:Testingmvn.Testmvn@2038ae61]" name="method1" is-config="true" duration-ms="1" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="third()[pri:0, instance:Testingmvn.Testmvn@2038ae61]" name="third" duration-ms="1" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- third -->
+        <test-method status="PASS" signature="aftermethod2()[pri:0, instance:Testingmvn.Testmvn@2038ae61]" name="aftermethod2" is-config="true" duration-ms="1" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod2 -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:Testingmvn.Testmvn@2038ae61]" name="method1" is-config="true" duration-ms="6" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="second()[pri:0, instance:Testingmvn.Testmvn@2038ae61]" name="second" duration-ms="1" started-at="2020-06-29T18:28:15 IST" depends-on-methods="Testingmvn.Testmvn.first" finished-at="2020-06-29T18:28:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- second -->
+        <test-method status="PASS" signature="aftermethod2()[pri:0, instance:Testingmvn.Testmvn@2038ae61]" name="aftermethod2" is-config="true" duration-ms="1" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod2 -->
+        <test-method status="PASS" signature="afclass()[pri:0, instance:Testingmvn.Testmvn@2038ae61]" name="afclass" is-config="true" duration-ms="14" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afclass -->
+        <test-method status="PASS" signature="after()[pri:0, instance:Testingmvn.Testmvn@2038ae61]" name="after" is-config="true" duration-ms="1" started-at="2020-06-29T18:28:15 IST" finished-at="2020-06-29T18:28:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- Testingmvn.Testmvn -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
